@@ -4,7 +4,7 @@
 
   📝 [My Tech Blog](https://velog.io/@anachrosh)  
   
-  📫 **anachrosh@gmail.com**
+  📫 **lunabright817@gmail.com**
   
 </div>
 
