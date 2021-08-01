@@ -36,5 +36,5 @@
 <br />
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kylee817&show_icons=true&theme=buefy&locale=en&layout=compact" alt="kylee817" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kylee817&show_icons=true&theme=buefy&locale=en" alt="kylee817" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lunathebright&show_icons=true&theme=buefy&locale=en&layout=compact" alt="lunathrbright" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lunathebright&show_icons=true&theme=buefy&locale=en" alt="lunathebright" />
 </div>
