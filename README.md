@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=96BAFF&height=350&animation=fadeIn&section=header&text=Hi&#33;&ensp;I&rsquo;m&ensp;Luna&desc=Summer&hyphen;born&comma;&ensp;summer&hyphen;like&ensp;passionate&ensp;frontend&ensp;developers&descAlignY=50&fontSize=40&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=96BAFF&height=350&animation=fadeIn&section=header&text=Hi&#33;&ensp;I&rsquo;m&ensp;Luna&desc=Summer&hyphen;born&comma;&ensp;summer&hyphen;like&ensp;passionate&ensp;frontend&ensp;developer&descAlignY=50&fontSize=40&fontColor=ffffff&fontAlignY=40)
 
 <div align="center"> 
 
