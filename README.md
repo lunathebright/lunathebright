@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-  📝 [My Tech Blog](https://velog.io/@anachrosh)  
+  📝 [My Tech Blog](https://lunabright.netlify.app/)  
   
   📫 **lunabright817@gmail.com**
   
