@@ -17,7 +17,6 @@
  <img src="https://img.shields.io/badge/SCSS-C96195?style=flat-square&logo=SciPy&logoColor=white"/>
  <br/>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
  <img src="https://img.shields.io/badge/Postman-FF6c37?style=flat-square&logo=Postman&logoColor=white"/>
