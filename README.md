@@ -38,5 +38,5 @@
 <br />
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lunathebright&show_icons=true&theme=buefy&locale=en&layout=compact" alt="lunathrbright" /> <img src="https://github-readme-stats.vercel.app/api?username=lunathebright&show_icons=true&theme=buefy&locale=en" alt="lunathebright" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lunathebright&show_icons=true&theme=buefy&locale=en&layout=compact" alt="lunathrbright" /> 
 </div>
